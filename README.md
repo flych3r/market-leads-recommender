@@ -2,6 +2,8 @@
 
 This app was made using streamlit for the codenation Aceleradev Challenge 2020
 
+It uses a dataset of businesses information to recommend similar businesses based on a portfolio of existing clients
+
 ## How does it work
 
 A Tf-Idf matrix was created using the dataset features
